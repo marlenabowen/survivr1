@@ -65,7 +65,7 @@ String.colors #returns an array of all the available colors
 String.sample_colors # displays examples of all the available colors
 ```
 
-## License
+### License
 Colorizr is distributed under MIT license. 
 
 
