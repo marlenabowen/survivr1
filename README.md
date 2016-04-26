@@ -61,8 +61,8 @@ puts "This is a green string.".green
 
 ##### Other available Class methods:
 ```
-String.colors #returns an array of all the available colors
-String.sample_colors # displays examples of all the available colors
+String.colors               # returns an array of all the available colors
+String.sample_colors        # displays examples of all the available colors
 ```
 
 ### License
