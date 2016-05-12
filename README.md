@@ -31,7 +31,7 @@ cd survivr1
 ##### And run the following commands:
 ``` 
 $ gem build colorizr.gemspec
-$ gem install colorizrz-0.0.2.gem
+$ gem install colorizr-0.0.2.gem
 ```
 
 ### Usage Instructions
